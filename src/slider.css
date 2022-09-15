@@ -1,0 +1,46 @@
+
+
+.slider-container {
+    display: flex;
+    margin: 0 auto;
+    background: transparent !important;
+    overflow-x: hidden;
+    margin-left: -20px;
+   
+}
+
+.slider {
+    display: flex;
+    cursor: grab;
+    
+}
+
+.slider__img{
+    width: 460px;
+}
+
+.item {
+    margin-left: -25px;
+    max-width: 50rem;
+    padding: 1.5rem;
+}
+
+.item img {
+    pointer-events: none;
+}
+
+
+@media (max-width:640px) {
+	.item {
+    
+    max-width: 25rem;
+    padding: 2rem;
+}
+
+.slider__img{
+    width: 340px;
+}
+
+
+
+}

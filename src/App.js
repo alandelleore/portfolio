@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 
-function App() {
+import GlobalContext from './context/GlobalContext.js';
+
+import './App.css';
+import "./styles.css";
+
+import Abaut from './components/Abaut';
+//import Background from './components/Background';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Navbar from './components/Navbar';
+
+
+
+
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+      <GlobalContext>
+            <Navbar />
+            <Header />
+            <Abaut/>         
+            
+            <Footer />
+      </GlobalContext>
+
+  )
 }
 
 export default App;

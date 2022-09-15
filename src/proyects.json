@@ -1,0 +1,98 @@
+[
+    {
+        "titulo": "Bluebird",
+        "descripcion": "Bluebird, E-commerce de venta de perfumes importados desarrollado en React JS",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-bluebird.jpg?alt=media&token=3a25f924-5c0d-4ecc-9959-9d3ee7f05173",
+        "github": "https://github.com/alandelleore/Bluebirdshop",
+        "url": "https://bluebirdshop2.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack7.png?alt=media&token=f350ce79-f108-4d8c-ae89-a36aee35549b"
+    },
+    {
+        "titulo": "Moss Garden",
+        "descripcion": "Página agencia de viajes realizada en Node JS + Express conectando a una base de datos MySQL con Sequelize.",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-moss.jpg?alt=media&token=1eddf279-d1d0-4cf2-92bc-237d22e0a350",
+        "github": "https://github.com/alandelleore/Agencia-viajes",
+        "url": "https://protected-wave-72911.herokuapp.com/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack-9.png?alt=media&token=b76f138b-29e3-47f7-8c37-bf1e846c0a46"
+    },
+    {
+        "titulo": "Weather Report",
+        "descripcion": "APP de Clima en tiempo real , consume API https://openweathermap.org/ ",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-clima.jpg?alt=media&token=8f8c18a2-676b-4a1d-8b7a-b05004bdbdf5",
+        "github": "https://github.com/alandelleore/Clima",
+        "url": "https://climaonline.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack6.png?alt=media&token=d99e973d-e85c-46fd-a0fa-b4ee31ff4f94"
+    },
+    {
+        "titulo": "BlackMarket",
+        "descripcion": "E-commerce de instrumentos musicales, carrito de compras, buscador y filtro por precio/categoria.",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-blackmarket.jpg?alt=media&token=c447639f-4d1a-431f-ae89-9688d63bbcd6",
+        "github": "https://github.com/alandelleore/Blackmarcket-shop",
+        "url": "https://blackmarcket.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack10.png?alt=media&token=64f19078-3db5-43fe-a553-66aa6ecaa603"
+    },
+    {
+        "titulo": "Mr. X",
+        "descripcion": "Recreación del website del Señor X de Homero Simpson, página estática responsive/mobile.",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-mrx.jpg?alt=media&token=66d19c87-160e-4ac3-85e9-fc64b59c781a",
+        "github": "https://github.com/alandelleore/Mr.X",
+        "url": "https://sr-x.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack1.png?alt=media&token=7fd3eb3a-f7b1-482c-9982-a2adcb7f73f9"
+    },
+    {
+        "titulo": "Currency State",
+        "descripcion": "Cotizador de Criptomonedas desarrollado en Javascript, API https://min-api.cryptocompare.com.",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-cripto.jpg?alt=media&token=2ef80668-c33f-42a9-bb78-118ca8f5bf7d",
+        "github": "https://github.com/alandelleore/Cotizador-Criptomonedas",
+        "url": "https://criptonow.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack5.png?alt=media&token=b667f454-5a62-4db1-881e-1b192c50fddb"
+    },
+    {
+        "titulo": "Poke App",
+        "descripcion": "Aplicacíon desarrollada con REDUX, colección de Pokemones consumidos a travez de la api https://pokeapi.co/",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-poke.jpg?alt=media&token=65d1f7d0-f9c1-457f-88b8-f437813226f0",
+        "github": "https://github.com/alandelleore/Poke-app",
+        "url": "https://pokeapp2.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack7.png?alt=media&token=f350ce79-f108-4d8c-ae89-a36aee35549b"
+    },
+    {
+        "titulo": "PixSearch",
+        "descripcion": "Buscador de imagenes desarrollado en Javascript, utiliza la API de Pixabay https://pixabay.com/api/docs/",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-pix.jpg?alt=media&token=e14bb112-671b-467e-afd3-022f6442ede7",
+        "github": "https://github.com/alandelleore/Buscador-Pixabay",
+        "url": "https://pixabay3.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack8.png?alt=media&token=3cf9e695-325b-404a-8892-d7d671fb29c9"
+    },
+    {
+        "titulo": "Notas 3.0",
+        "descripcion": "CRUD simple, lista de notas donde se permite agregar, editar y borrar usando Firebase como base de datos",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-crud.jpg?alt=media&token=a9ceb220-d319-4aaa-a5b7-6765f491ef9f",
+        "github": "https://github.com/alandelleore/Notas3.0",
+        "url": "https://misnotas3.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack7.png?alt=media&token=f350ce79-f108-4d8c-ae89-a36aee35549b"
+    },
+    {
+        "titulo": "Chat",
+        "descripcion": "Chat para dos usuarios realizado en React Js ,utiliza Firebase como backend. Se accede mediante autenticación de Google.",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-chat.jpg?alt=media&token=6055e6d2-760b-4e61-976f-8a136a1e79d7",
+        "github": "https://github.com/alandelleore/Chat",
+        "url": "https://alandelleore.000webhostapp.com/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack7.png?alt=media&token=f350ce79-f108-4d8c-ae89-a36aee35549b"
+    },
+    {
+        "titulo": "Rick and Morty App",
+        "descripcion": "App buscador de personajes Rick and Morty por medio de API: https://rickandmortyapi.com",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyec-rick.jpg?alt=media&token=80218b5c-ef51-43c4-868c-9190f8b4ebe8",
+        "github": "https://github.com/alandelleore/Rick-Morty",
+        "url": "https://rickandmorty-2.netlify.app/",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack11.png?alt=media&token=7cb5bd39-1094-430c-a004-01ec042dfedb"
+    },
+    {
+        "titulo": "Admin. presupuesto",
+        "descripcion": "Lista de gastos mensuales en JS aplicando Classes , HTML, BOOTSTRAP, CSS, JAVASCRIPT",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/proyect-gastos.jpg?alt=media&token=69a16f7b-cbfb-4b93-baac-c8e93401e24d",
+        "github": "https://github.com/alandelleore/Administracion-presupuesto",
+        "url": "",
+        "stack": "https://firebasestorage.googleapis.com/v0/b/bluebird-2c2a8.appspot.com/o/stack3.png?alt=media&token=92d2486a-0472-47d7-8d12-61f643abfed1"
+    }
+]
