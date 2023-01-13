@@ -13,6 +13,7 @@ const Abaut = () => {
           <p className="text-muted textos">
             Mi nombre es Alan Juan Pablo Delle Ore, soy desarrollador Frontend y
             estoy en búsqueda de mi primera experiencia laboral en el mundo IT.
+            Actualmente estudio programacion Backend con Node js.
           </p>
           <p className="text-muted textos">
             En el año 2021 empece este recorrido de aprendizaje realizando
