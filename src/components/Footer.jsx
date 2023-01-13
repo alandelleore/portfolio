@@ -51,7 +51,10 @@ const Footer = () => {
           <div className="col-6 col-xs-6 col-md-6 col-lg-3 mb-2">
             <p className="h6 fw-semibold">Contacto</p>
             <div className="mb-2">
-              <a href="/" className="text-light text-decoration-none fw-light ">
+              <a
+                href="https://linkedin.com/in/alandelleore"
+                className="text-light text-decoration-none fw-light "
+              >
                 Linkedin
               </a>
             </div>
@@ -97,7 +100,12 @@ const Footer = () => {
               </a>
             </div>
             <div className="mb-2">
-              <a href="/" className="text-light text-decoration-none fw-light">
+              <a
+                href="https://github.com/alandelleore/portfolio"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="text-light text-decoration-none fw-light"
+              >
                 Portfolio
               </a>
             </div>

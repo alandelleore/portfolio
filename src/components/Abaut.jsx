@@ -11,18 +11,17 @@ const Abaut = () => {
         <div className="col-md-6 mx-2 text-light mt-5">
           <h1 className="abaut text-muted mb-4 mt-3">Sobre mí</h1>
           <p className="text-muted textos">
-            Mi nombre es Alan Juan Pablo Delle Ore , soy un estudiante de
-            programación especializado en el Frontend en búsqueda de mi primera
-            experiencia laboral en el mundo IT.
+            Mi nombre es Alan Juan Pablo Delle Ore, soy desarrollador Frontend y
+            estoy en búsqueda de mi primera experiencia laboral en el mundo IT.
           </p>
           <p className="text-muted textos">
-            En marzo de 2021 empece este recorrido de aprendizaje realizando
+            En el año 2021 empece este recorrido de aprendizaje realizando
             distintos cursos, capacitaciones y proyectos en plataformas como
             CoderHouse, EducaciónIT, ComIT, E-learning-total, entre otras.
           </p>
           <p className="text-muted textos">
             Me considero una persona proactiva, aplicada y creativa en constante
-            búsqueda de mejorar mis habilidades y conocimientos, disfruto mucho
+            búsqueda de mejorar mis habilidades y conocimientos. Disfruto mucho
             programar, diseñar, crear soluciones y me entusiasma aún más la idea
             de poder trabajar en equipo para aportar y seguir creciendo en un
             ámbito laboral.

@@ -51,7 +51,11 @@ export default function Menu() {
         <Section>
           <div className="container row contenedor__iconos ">
             <div className="col-12 col-md-12 mt-4 m-3 icono">
-              <a href="/" target="_blank " rel="noreferrer">
+              <a
+                href="https://linkedin.com/in/alandelleore"
+                target="_blank "
+                rel="noreferrer"
+              >
                 <img src={linkedin} alt="" className="icono__img" />
               </a>
             </div>

@@ -51,7 +51,11 @@ export default function MenuMobile() {
         <Section>
           <div className="container row mt-4 menumobile ">
             <div className="col-4 icono">
-              <a href="/" target="_blank " rel="noreferrer">
+              <a
+                href="https://linkedin.com/in/alandelleore"
+                target="_blank "
+                rel="noreferrer"
+              >
                 <img src={linkedin} alt="" className="icono__img" />
               </a>
             </div>

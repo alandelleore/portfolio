@@ -22,8 +22,8 @@ const Perfil = () => {
           <div className="descripcion ">
             <p className="text-justify">
               Soy estudiante de programación en constante capacitación y
-              desarrollo de nuevas habilidades en búsqueda de mi primera
-              experiencia laboral en el mundo IT.
+              desarrollo de nuevas tecnologías y habilidades, en búsqueda de mi
+              primera experiencia laboral en el mundo IT.
             </p>
             <div className="social">
               <a href={cvAlan} target="_blank " rel="noreferrer">
