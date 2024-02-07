@@ -11,8 +11,8 @@ const Abaut = () => {
         <div className="col-md-6 mx-2 text-light mt-5">
           <h1 className="abaut text-muted mb-4 mt-3">Sobre mí</h1>
           <p className="text-muted textos">
-            Mi nombre es Alan Juan Pablo Delle Ore, soy desarrollador frontend y
-            estudiante de tecnicatura superior en programación en Instituto
+            Mi nombre es Alan Juan Pablo Delle Ore, soy desarrollador Fullstack
+            y estudiante de tecnicatura superior en programación en Instituto
             Teclab.
           </p>
           <p className="text-muted textos">
