@@ -14,25 +14,26 @@ import imgCursoUdemy1 from "../images/curso-udemy1.jpg";
 import imgCursoUdemy2 from "../images/curso-udemy2.jpg";
 import imgCursoNode from "../images/curso-node.jpg";
 import imgCursoUx from "../images/curso-ux.jpg";
+import imgCursoPhotoshop from "../images/curso-photoshop.jpg";
 
+const images = [
+  imgCursoUtn,
+  imgCursoJs,
+  imgCursoReact,
+  imgCursoAnalisis,
+  imgCursoNode,
+  imgCursoGoogle1,
+  imgCursoGoogle2,
+  imgCursoPlural1,
+  imgCursoPlural2,
+  imgCursoScrum1,
+  imgCursoScrum2,
+  imgCursoDevRock,
+  imgCursoUdemy1,
+  imgCursoUdemy2,
+  imgCursoPluralUx,
+  imgCursoUx,
+  imgCursoPhotoshop,
+];
 
-
-const images = [imgCursoUtn,
-    imgCursoJs,
-    imgCursoReact,
-    imgCursoAnalisis,
-    imgCursoNode,
-    imgCursoGoogle1,
-    imgCursoGoogle2,
-    imgCursoPlural1,
-    imgCursoPlural2,
-    imgCursoScrum1,
-    imgCursoScrum2,
-    imgCursoDevRock,
-    imgCursoUdemy1,
-    imgCursoUdemy2,
-    imgCursoPluralUx,
-    imgCursoUx]
-
-
-export default images
+export default images;
