@@ -16,14 +16,14 @@ const Perfil = () => {
               <img src={perfil} alt="foto perfil" className="perfil" />
             </div>
             <h2>Alan Delle Ore</h2>
-            <h4>Desarrollador Front-End</h4>
+            <h4>Desarrollador Full Stack</h4>
             <MenuMobile />
           </div>
           <div className="descripcion ">
             <p className="text-justify">
-              Soy programador Full Stack y estoy en búsqueda de mi primera
-              experiencia laboral en el mundo IT, te invito a conocer más sobre
-              mí y ver algunos de mis proyectos.
+              Soy programador Full Stack y estudiante de tecnicatura en
+              programación, te invito a conocer más sobre mí y ver algunos de
+              mis proyectos.
             </p>
             <div className="social">
               <a href={cvAlan} target="_blank " rel="noreferrer">
