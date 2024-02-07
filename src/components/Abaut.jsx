@@ -6,26 +6,27 @@ import Arrow from "./Arrow";
 
 const Abaut = () => {
   return (
-    <div className="container mt-4 " id="abaut">
+    <div className="container mt-4 " id="sobre-mi">
       <div className="row p-4">
         <div className="col-md-6 mx-2 text-light mt-5">
           <h1 className="abaut text-muted mb-4 mt-3">Sobre mí</h1>
           <p className="text-muted textos">
-            Mi nombre es Alan Juan Pablo Delle Ore, soy desarrollador Frontend y
-            estoy en búsqueda de mi primera experiencia laboral en el mundo IT.
-            Actualmente estudio programacion Backend con Node js.
+            Mi nombre es Alan Juan Pablo Delle Ore, soy desarrollador frontend y
+            estudiante de tecnicatura superior en programación en Instituto
+            Teclab.
           </p>
           <p className="text-muted textos">
-            En el año 2021 empece este recorrido de aprendizaje realizando
-            distintos cursos, capacitaciones y proyectos en plataformas como
-            CoderHouse, EducaciónIT, ComIT, E-learning-total, entre otras.
+            Empece este recorrido de aprendizaje realizando distintos cursos,
+            capacitaciones y proyectos en plataformas como CoderHouse,
+            EducaciónIT, ComIT, E-learning-total, entre otras. Actualmente me
+            desempeño como desarrollador frontend en Prendo by MG Group S.A.
           </p>
           <p className="text-muted textos">
-            Me considero una persona proactiva, aplicada y creativa en constante
-            búsqueda de mejorar mis habilidades y conocimientos. Disfruto mucho
-            programar, diseñar, crear soluciones y me entusiasma aún más la idea
-            de poder trabajar en equipo para aportar y seguir creciendo en un
-            ámbito laboral.
+            Me considero una persona responsable, organizada y resolutiva, me
+            adapto fácilmente a los nuevos entornos y al trabajo en equipo. Soy
+            un apasionado por la tecnología, comprometido con el aprendizaje
+            continuo, listo para nuevos desafios y a la altura de los
+            requerimientos de la industria.
           </p>
         </div>
         <div className="col-md-4 mx-2 mt-5">

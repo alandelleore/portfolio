@@ -12,6 +12,8 @@ import imgCursoDevRock from "../images/curso-devrock.jpg";
 import imgCursoPluralUx from "../images/curso-pluralux.jpg";
 import imgCursoUdemy1 from "../images/curso-udemy1.jpg";
 import imgCursoUdemy2 from "../images/curso-udemy2.jpg";
+import imgCursoNode from "../images/curso-node.jpg";
+import imgCursoUx from "../images/curso-ux.jpg";
 
 
 
@@ -19,6 +21,7 @@ const images = [imgCursoUtn,
     imgCursoJs,
     imgCursoReact,
     imgCursoAnalisis,
+    imgCursoNode,
     imgCursoGoogle1,
     imgCursoGoogle2,
     imgCursoPlural1,
@@ -28,7 +31,8 @@ const images = [imgCursoUtn,
     imgCursoDevRock,
     imgCursoUdemy1,
     imgCursoUdemy2,
-    imgCursoPluralUx]
+    imgCursoPluralUx,
+    imgCursoUx]
 
 
 export default images

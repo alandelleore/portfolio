@@ -21,7 +21,11 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#abaut">
+              <a
+                className="nav-link active"
+                aria-current="page"
+                href="#sobre-mi"
+              >
                 Sobre mi
               </a>
             </li>

@@ -21,7 +21,7 @@ const Perfil = () => {
           </div>
           <div className="descripcion ">
             <p className="text-justify">
-              Soy programador Frontend y estoy en búsqueda de mi primera
+              Soy programador Full Stack y estoy en búsqueda de mi primera
               experiencia laboral en el mundo IT, te invito a conocer más sobre
               mí y ver algunos de mis proyectos.
             </p>
